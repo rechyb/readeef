@@ -6,6 +6,10 @@ readeef is a self-hosted feed aggregator. Similar to Google Reader, but on your 
 For a more detailed description, [click here](https://www.sugr.org:32443/en/products/readeef).
 Some screenshots may also be had [on this page](https://www.sugr.org:32443/en/products/readeef#gallery)
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10255/badge)](https://www.bestpractices.dev/projects/10255)
+
+
+
 Quick start
 ===========
 
