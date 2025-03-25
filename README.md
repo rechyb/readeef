@@ -7,7 +7,7 @@ For a more detailed description, [click here](https://www.sugr.org:32443/en/prod
 Some screenshots may also be had [on this page](https://www.sugr.org:32443/en/products/readeef#gallery)
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10255/badge)](https://www.bestpractices.dev/projects/10255)
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/rechyb/readeef/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/rechyb/readeef)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/rechyb/readeef/badge)](https://securityscorecards.dev/viewer/?uri=github.com/rechyb/readeef)
 
 
 
